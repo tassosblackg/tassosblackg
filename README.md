@@ -23,11 +23,10 @@
 
 <br />
 
-
-  ***" There is always a hidden ace 🂡 underneath!"***
+ 
+ ***" There is always a hidden ace 🂡 underneath!"***
   
   
-
 <br />
 
 ## Personal sum :radioactive::
@@ -59,14 +58,16 @@ I guess, all I have to do is being consistent:zany_face:! (or not [Check This Ou
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 
 ## 📈 My Stats:
-
+<details title="Expand to see stats">
+  <summary> Expand to see stats </summary>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tassosblackg&show_icons=true&theme=gotham" alt="tassosblackg" />
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
+</details>
 
-![](https://visitor-badge.glitch.me/badge?page_id=tassosblackg)
 
 ## :anger: My Moto:
 
-***"Think by :heartbeat:, Work by :muscle:! "***
+***"Think by :heartbeat:, Work by :muscle:! "***  
+![](https://visitor-badge.glitch.me/badge?page_id=tassosblackg)
