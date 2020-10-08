@@ -62,6 +62,13 @@ I guess, all I have to do is being consistent:zany_face:! (or not [Check This Ou
   <summary> Expand to see stats </summary>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tassosblackg&show_icons=true&theme=gotham" alt="tassosblackg" />
 <!--START_SECTION:waka-->
+```text
+Python       4 hrs 12 mins   ████████████████████░░░░░   80.27 % 
+JavaScript   38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+JSX          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Bash         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+CSS          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+```
 <!--END_SECTION:waka-->
 </details>
 
