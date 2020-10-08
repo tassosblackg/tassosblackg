@@ -31,9 +31,8 @@
 
 ## Personal sum :radioactive::
 - 🔭 I’m currently working on my personal website.
-- 🌱 I’m currently learning again (something lit is coming).
+- 🌱 I’m currently envolving 📈 [Check My Statistics](#my-stats).
 - 🤔 I’m looking for help with get shit done.
-- 💬 Ask me about something Idk.
 - 📫 How to reach me: soylis.k@gmail.com
 - :atom_symbol: Favorite editor : <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
 
@@ -57,13 +56,14 @@ I guess, all I have to do is being consistent:zany_face:! (or not [Check This Ou
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 
-## 📈 My Stats:
+# My Stats:
 <details title="Expand to see stats">
+  
   <summary> Expand to see stats </summary>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tassosblackg&show_icons=true&theme=gotham" alt="tassosblackg" />
 
 <br />
-
+📈 Dev Stats per Week
 <!--START_SECTION:waka-->
 ```text
 Python       4 hrs 12 mins   ████████████████████░░░░░   80.27 % 
