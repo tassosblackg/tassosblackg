@@ -62,8 +62,9 @@ I guess, all I have to do is being consistent:zany_face:! (or not [Check This Ou
   <summary> Expand to see stats </summary>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tassosblackg&show_icons=true&theme=gotham" alt="tassosblackg" />
 
+📈 ***Dev Stats per Week***
 <br />
-📈 Dev Stats per Week
+
 <!--START_SECTION:waka-->
 ```text
 Python       4 hrs 12 mins   ████████████████████░░░░░   80.27 % 
