@@ -61,6 +61,8 @@ I guess, all I have to do is being consistent:zany_face:! (or not [Check This Ou
   
   <summary> Expand to see stats </summary>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=tassosblackg&show_icons=true&theme=gotham" alt="tassosblackg" />
+  
+<p aling="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tassosblackg&layout=compact&theme=gotham" alt=""/>
 
 📈 ***Dev Stats per Week***
 <br />
