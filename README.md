@@ -69,11 +69,11 @@ I guess, all I have to do is being consistent:zany_face:! (or not [Check This Ou
 
 <!--START_SECTION:waka-->
 ```text
-Python        14 hrs 24 mins  █████████████████▓░░░░░░░   70.03 % 
-Other         4 hrs 33 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.14 % 
-Text          52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-Objective-C   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Markdown      15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Python        10 hrs 11 mins  █████████████████▒░░░░░░░   69.91 % 
+Other         2 hrs 35 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Text          59 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Objective-C   27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Markdown      15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 ```
 <!--END_SECTION:waka-->
 <br />
