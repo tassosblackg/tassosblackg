@@ -49,19 +49,21 @@
 I guess, all I have to do is being consistent:zany_face:! (or not [Check This Out](https://github.com/gokhankuyucak/fakehistory) )
 
 ## Techologies:
-<img height="40" width="40" src="https://img.icons8.com/dusk/128/000000/python.png">
-<img height="40" width="40" src="https://img.icons8.com/color/240/000000/c-programming.png">
-<code><img height="40" width="40" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png">
-<img height="40" width="40" src="https://img.icons8.com/color/240/000000/tensorflow.png">
-<img height="40" width="40" src="https://img.icons8.com/doodle/96/000000/r.png"/>
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png">
-<img height="40" width="40" src="https://img.icons8.com/fluent/48/000000/matlab.png">
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
+<p>
+  <img height="40" width="40" src="https://img.icons8.com/dusk/128/000000/python.png">
+  <img height="40" width="40" src="https://img.icons8.com/color/240/000000/c-programming.png">
+  <img height="40" width="40" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png">
+  <img height="40" width="40" src="https://img.icons8.com/color/240/000000/tensorflow.png">
+  <img height="40" width="40" src="https://img.icons8.com/bubbles/50/000000/r.png">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png">
+  <img height="40" width="40" src="https://img.icons8.com/fluent/48/000000/matlab.png">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
+ </p>
 
 # My Stats:
 <details title="Expand to see stats">
