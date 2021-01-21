@@ -2,16 +2,16 @@
 #### My name is Tassos,
 
 <a href="https://www.linkedin.com/in/tasos-karageorgiadis-ece/" rel="noopener noreferrer" target="_blank">
-  <img align="left" alt="Tassos's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img height="80" width="80" align="left" alt="Tassos's LinkdeIN" width="22px" src="https://img.icons8.com/bubbles/200/000000/linkedin.png" />
 </a>
 
 <a href="https://twitter.com/k_tassos13" rel="noopener noreferrer" target="_blank">
-  <img align="left" alt="Tassos Twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Tassos Twitter | Twitter" height="80" width="80" src="https://img.icons8.com/clouds/100/000000/twitter.png" />
 </a>
 
 
 <a href="https://stackoverflow.com/users/9870435/tassosk" rel="noopener noreferrer" target="_blank">
-  <img align="left" alt="Tassos on Stack | StackOVF" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/stackoverflow.svg"/>
+  <img align="left" alt="Tassos on Stack | StackOVF" height="80" width="80" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 </a>
 <!--Icons made by <a href="https://www.flaticon.com/free-icon/browser_634060" title="prettycons">prettycons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> -->
 
@@ -19,6 +19,13 @@
   <img align="left" alt="Tassos Website | Github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gitea.svg" />
   
 </a>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+
 
 
 <br />
@@ -43,19 +50,19 @@
 I guess, all I have to do is being consistent:zany_face:! (or not [Check This Out](https://github.com/gokhankuyucak/fakehistory) )
 
 ## Techologies:
-<code><img height="30" src="https://img.icons8.com/dusk/128/000000/python.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/240/000000/c-programming.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png"></code>
-<code><img height="30" src="https://img.icons8.com/color/240/000000/tensorflow.png"></code>
-<code><img height="30" src="https://img.icons8.com/doodle/96/000000/r.png"/></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
-<code><img height="30" src="https://img.icons8.com/fluent/48/000000/matlab.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/dusk/128/000000/python.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/240/000000/c-programming.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/color/240/000000/tensorflow.png"></code>
+<code><img height="40" width="40"src="https://img.icons8.com/doodle/96/000000/r.png"/></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
+<code><img height="40" width="40" src="https://img.icons8.com/fluent/48/000000/matlab.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 
 # My Stats:
 <details title="Expand to see stats">
