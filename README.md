@@ -40,7 +40,7 @@
 - 🌱 I’m currently envolving 📈 [Check My Statistics](#my-stats).
 - 🤔 I’m looking for help with get shit done.
 - 📫 How to reach me: soylis.k@gmail.com
-- :atom_symbol: Favorite editor : <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png"></code>
+- :atom_symbol: Favorite editor : <img height="35" width="35" src="https://img.icons8.com/clouds/100/000000/atom-editor.png">
 
 - ⚡ Fun fact: My secret mission is to achieve this commit history,
 
@@ -49,19 +49,19 @@
 I guess, all I have to do is being consistent:zany_face:! (or not [Check This Out](https://github.com/gokhankuyucak/fakehistory) )
 
 ## Techologies:
-<code><img height="40" width="40" src="https://img.icons8.com/dusk/128/000000/python.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/240/000000/c-programming.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/color/240/000000/tensorflow.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/doodle/96/000000/r.png"/></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
-<code><img height="40" width="40" src="https://img.icons8.com/fluent/48/000000/matlab.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
+<img height="40" width="40" src="https://img.icons8.com/dusk/128/000000/python.png">
+<img height="40" width="40" src="https://img.icons8.com/color/240/000000/c-programming.png">
+<code><img height="40" width="40" src="https://img.icons8.com/color/240/000000/c-plus-plus-logo.png">
+<img height="40" width="40" src="https://img.icons8.com/color/240/000000/tensorflow.png">
+<img height="40" width="40" src="https://img.icons8.com/doodle/96/000000/r.png"/>
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png">
+<img height="40" width="40" src="https://img.icons8.com/fluent/48/000000/matlab.png">
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png">
 
 # My Stats:
 <details title="Expand to see stats">
