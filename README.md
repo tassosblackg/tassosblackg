@@ -2,21 +2,21 @@
 #### My name is Tassos,
 
 <a href="https://www.linkedin.com/in/tasos-karageorgiadis-ece/" rel="noopener noreferrer" target="_blank">
-  <img height="80" width="80" align="left" alt="Tassos's LinkdeIN" width="22px" src="https://img.icons8.com/bubbles/200/000000/linkedin.png" />
+  <img height="60" width="60" align="left" alt="Tassos's LinkdeIN" src="https://img.icons8.com/bubbles/200/000000/linkedin.png" />
 </a>
 
 <a href="https://twitter.com/k_tassos13" rel="noopener noreferrer" target="_blank">
-  <img align="left" alt="Tassos Twitter | Twitter" height="80" width="80" src="https://img.icons8.com/clouds/100/000000/twitter.png" />
+  <img align="left" alt="Tassos Twitter | Twitter" height="60" width="60" src="https://img.icons8.com/clouds/100/000000/twitter.png" />
 </a>
 
 
 <a href="https://stackoverflow.com/users/9870435/tassosk" rel="noopener noreferrer" target="_blank">
-  <img align="left" alt="Tassos on Stack | StackOVF" height="80" width="80" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+  <img align="left" alt="Tassos on Stack | StackOVF" height="60" width="60" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
 </a>
 <!--Icons made by <a href="https://www.flaticon.com/free-icon/browser_634060" title="prettycons">prettycons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> -->
 
 <a href="https://tassosblackg.github.io/" title="Website" rel="noopener noreferrer" target="_blank">
-  <img align="left" alt="Tassos Website | Github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.9.0/icons/gitea.svg" />
+  <img align="left" alt="Tassos Website | Github.io" height="60" width="60" src="https://img.icons8.com/dotty/80/000000/portfolio.png" />
   
 </a>
 
