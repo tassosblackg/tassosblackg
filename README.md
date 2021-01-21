@@ -70,9 +70,8 @@ I guess, all I have to do is being consistent:zany_face:! (or not [Check This Ou
 
 <!--START_SECTION:waka-->
 ```text
-Python     1 hr 54 mins    ████████████████████░░░░░   79.38 % 
-Text       22 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
-Markdown   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Python     1 hr 7 mins     ████████████████████▒░░░░   81.68 % 
+Markdown   14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.70 % 
 ```
 <!--END_SECTION:waka-->
 <br />
