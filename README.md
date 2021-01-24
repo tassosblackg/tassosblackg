@@ -42,9 +42,10 @@
 - 📫 How to reach me: soylis.k@gmail.com
 - :atom_symbol: Favorite editor : <img height="35" width="35" src="https://img.icons8.com/clouds/100/000000/atom-editor.png">
 
-- ⚡ Fun fact: My secret mission is to achieve this commit history,
+[comment]: <- ⚡ Fun fact: My secret mission is to achieve this commit history,>
 
-![githistory](sn.png)
+
+[comment]: <![githistory](sn.png)>
 
 I guess, all I have to do is being consistent:zany_face:! (or not [Check This Out](https://github.com/gokhankuyucak/fakehistory) )
 
