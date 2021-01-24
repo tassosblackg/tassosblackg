@@ -47,7 +47,8 @@
 
 [comment]: <![githistory](sn.png)>
 
-I guess, all I have to do is being consistent:zany_face:! (or not [Check This Out](https://github.com/gokhankuyucak/fakehistory) )
+
+[comment]: <I guess, all I have to do is being consistent:zany_face:! (or not [Check This Out](https://github.com/gokhankuyucak/fakehistory) )>
 
 ## Techologies:
 <p>
