@@ -80,8 +80,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python   21 mins         ████████████▓░░░░░░░░░░░░   50.93 % 
-Docker   20 mins         ████████████▒░░░░░░░░░░░░   49.07 % 
+
 ```
 <!--END_SECTION:waka-->
 <br />
