@@ -85,10 +85,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       7 hrs 30 mins   ████████████▓░░░░░░░░░░░░   51.07 % 
-Markdown     3 hrs 37 mins   ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-Other        3 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.03 % 
-Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Python       7 hrs 30 mins   ██████████▒░░░░░░░░░░░░░░   41.69 % 
+Other        6 hrs 42 mins   █████████▒░░░░░░░░░░░░░░░   37.17 % 
+Markdown     3 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 ```
 <!--END_SECTION:waka-->
 <br />
