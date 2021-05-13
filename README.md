@@ -85,7 +85,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java   8 hrs 44 mins   █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 <br />
