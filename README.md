@@ -85,7 +85,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-
+CSV      35 mins         ████████████▓░░░░░░░░░░░░   50.29 % 
+Python   34 mins         ████████████▒░░░░░░░░░░░░   49.71 % 
 ```
 <!--END_SECTION:waka-->
 <br />
