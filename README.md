@@ -27,25 +27,26 @@
 
 <br />
 <br />
-<br />
 
 
-
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
 <br />
 
  
- ***" There is always a hidden ace 🂡 underneath!"***
+ <p align="center"><em> <b> "There is always a hidden ace 🂡 underneath!" </b></em></p>
   
   
 <br />
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 ## Personal sum :radioactive::
-- 🔭 I’m currently working on my personal website.
+- 🔭 I’m currently busy with my <b>MSc</b> on <em>Artificial Intelligence & Data Analytics</em>.
 - 🌱 I’m currently envolving 📈 [Check My Statistics](#my-stats).
 - 🤔 I’m looking for help with get shit done.
 - 📫 How to reach me: soylis.k@gmail.com
-- :atom_symbol: Favorite editor : <img height="35" width="35" src="https://img.icons8.com/clouds/100/000000/atom-editor.png">
+- :atom_symbol: Favorite editor :  <img width="35" height="35" align="center" valign="center" src="https://img.icons8.com/ios-filled/50/000000/atom-editor.png"/>
 
 [comment]: <- ⚡ Fun fact: My secret mission is to achieve this commit history,>
 
