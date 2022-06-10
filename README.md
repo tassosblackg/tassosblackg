@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://twitter.com/k_tassos13" rel="noopener noreferrer" target="_blank">
-  <img align="left" alt="Tassos Twitter | Twitter" height="60" width="60" src="https://img.icons8.com/clouds/100/000000/twitter.png" />
+  <img align="left" alt="Tassos Twitter | Twitter" height="60" width="60" src="https://img.icons8.com/plasticine/100/undefined/twitter.png" />
 </a>
 
 
