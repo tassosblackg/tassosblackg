@@ -89,9 +89,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       2 hrs 28 mins   ██████████████░░░░░░░░░░░   56.24 %
-JavaScript   1 hr 51 mins    ██████████▓░░░░░░░░░░░░░░   42.15 %
-Git          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Python           2 hrs 43 mins   █████████████████░░░░░░░░   67.95 %
+JavaScript       1 hr 10 mins    ███████▒░░░░░░░░░░░░░░░░░   29.26 %
+Git              4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+textmate         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
