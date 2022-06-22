@@ -89,12 +89,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       7 hrs 16 mins   █████████████▓░░░░░░░░░░░   55.19 %
-Python           5 hrs 47 mins   ███████████░░░░░░░░░░░░░░   43.85 %
-Git              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-textmate         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-Git Config       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+JavaScript   7 hrs 16 mins   ██████████████▓░░░░░░░░░░   59.19 %
+Python       4 hrs 55 mins   ██████████░░░░░░░░░░░░░░░   40.11 %
+Git          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
