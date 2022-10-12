@@ -89,9 +89,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON     3 hrs 1 min     ███████████░░░░░░░░░░░░░░   43.60 %
-Python   2 hrs 3 mins    ███████▒░░░░░░░░░░░░░░░░░   29.76 %
-Other    1 hr 50 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
+JSON     2 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   40.13 %
+Other    2 hrs 35 mins   ████████▓░░░░░░░░░░░░░░░░   35.08 %
 ```
 
 <!--END_SECTION:waka-->
