@@ -89,8 +89,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON     2 hrs 57 mins   ██████████░░░░░░░░░░░░░░░   40.13 %
-Other    2 hrs 35 mins   ████████▓░░░░░░░░░░░░░░░░   35.08 %
+Other    4 hrs 2 mins    ████████████░░░░░░░░░░░░░   48.51 %
 ```
 
 <!--END_SECTION:waka-->
