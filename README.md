@@ -89,7 +89,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Docker     39 mins         █████████████▓░░░░░░░░░░░   54.75 %
+Markdown   21 mins         ███████▒░░░░░░░░░░░░░░░░░   29.80 %
+JSON       8 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Text       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Python     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
