@@ -81,7 +81,7 @@
   <summary> Expand to see stats </summary>
 <p align="left"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=tassosblackg&show_icons=true&theme=gotham"  alt="tassosblackg" />
   
-<p aling="right"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css" alt=""/>
+<p aling="right"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tassosblackg&show_icons=true&theme=gotham" alt=""/>
 
 📈 ***Dev Stats per Week***
 <br />
