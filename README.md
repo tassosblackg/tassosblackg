@@ -42,7 +42,8 @@
 
 
 ## Personal sum :radioactive::
-- 🔭 I’m currently busy with my <b>MSc</b> on <em>Artificial Intelligence & Data Analytics</em>.
+- 🎓 <b>M.Eng.</b> <em>Electrical and Computer Engineering</em> | <b>MSc</b> on <em>Artificial Intelligence & Data Analytics</em>.
+- 🔭 I’m currently busy with my <em><b>Research Associate Machine Learning Engineer</b> role</em> while playing the 🎸🎸.
 - 🌱 I’m currently envolving 📈 [Check My Statistics](#my-stats).
 - 🤔 I’m looking for help with get shit done.
 - 📫 How to reach me: soylis.k@gmail.com
