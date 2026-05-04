@@ -1,8 +1,3 @@
-This is a known GitHub bug introduced in April 2026 — GitHub changed how it renders inline HTML, and <img> tags with height and width attributes inside <p> tags now break to a new line each. The most reliable workaround right now is to use an HTML table, which GitHub still renders correctly with inline cells.
-
-Here is your fully fixed README:
-
-text
 ### Hi there from 🇬🇷 👋
 #### My name is Tassos,
 
